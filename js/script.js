@@ -6,7 +6,7 @@ const app = new Vue(
         el: '#vue',
         data: {
             message: 'Sto imparando ad usare Vue',
-            img: 'img/elden_1.0.jpg'
+            eldenRingImg: 'img/elden_1.0.jpg'
         },
     }
 );
