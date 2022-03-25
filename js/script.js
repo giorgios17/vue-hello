@@ -7,7 +7,6 @@ const app = new Vue(
         data: {
             message: 'Sto imparando ad usare Vue',
             eldenRingImg: 'img/elden_1.0.jpg',
-            contatore: '10'
         },
         methods: {
             cambiaImg() {
